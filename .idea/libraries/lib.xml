@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/cxf-rt-rs-service-description-3.0.0-milestone1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/jackson-jaxrs-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/cxf-rt-frontend-jaxrs-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/cxf-rt-transports-http-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/xmlschema-core-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/stax2-api-3.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/woodstox-core-asl-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/cxf-core-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/restws/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
